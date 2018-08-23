@@ -1,0 +1,1 @@
+This project is meant to play a game of Poker using the Deck of Cards API. 
